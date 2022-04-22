@@ -7,4 +7,4 @@ urlpatterns=[
     path('about/',views.welcome_about),
     path('contact-us/',views.welcome_contact),
     path('store/',views.welcome_store),
-]
+] 
